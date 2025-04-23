@@ -44,6 +44,14 @@
         - [ ] Electronics
             - [ ] Robotics
 
+### Python
+
+- [ ] Read the whole [documentation page](docs.python/org/3/)
+    - [ ] Explore the standard library
+        - [ ] functools
+        - [ ] collections
+        - [ ] sys
+
 ## Capitalize on the Experience
 
 - [ ] Freelancing
