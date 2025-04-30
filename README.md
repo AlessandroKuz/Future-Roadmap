@@ -35,6 +35,7 @@
                 - [ ] NLP
                     - [ ] LLMs
                         - [ ] RAG
+                        - [ ] A "Drop-in" and use App, that allows you to drop in a folder with x documents or other folders to perform RAG
             - [ ] Reinforcement Learning
     - [ ] DevOps
         - [ ] Cloud
