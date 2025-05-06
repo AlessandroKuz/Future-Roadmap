@@ -55,6 +55,10 @@
 
 ## Capitalize on the Experience
 
+- [ ] Scrape job listings to identify the most in-demand skills (to improve knowledge, known the demand, etc.)
+    - [ ] Analyze by location (city, state, etc.)
+    - [ ] Analyze by job role (e.g., web development, data science, machine learning, etc.)
+ 
 - [ ] Freelancing
     - Upwork
 - [ ] Blogging
