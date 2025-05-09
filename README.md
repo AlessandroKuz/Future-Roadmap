@@ -52,6 +52,18 @@
         - [ ] functools
         - [ ] collections
         - [ ] sys
+         
+## Portfolio - Curriculum
+
+- [ ] Personal Website
+    - [ ] Projects Section - Link existing and new projects
+        - [ ] Boot.dev courses
+        - [ ] Algorithms and data structure
+            - [ ] Add sorting visualizations
+        - [ ] ...
+    - [ ] JSON - Curriculum
+    - [ ] About me
+    - [ ] Contact me
 
 ## Capitalize on the Experience
 
